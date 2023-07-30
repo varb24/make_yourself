@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "D:/Make/make_yourself_test/linux",
+    "cmake.configureOnOpen": true,
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
